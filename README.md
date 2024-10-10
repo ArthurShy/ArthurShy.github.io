@@ -1,6 +1,6 @@
 ### :bowtie: Hi, I'm Yasai Shi 
 👋 Welcome~!
-![Image text](./BUAA-蓝底白字.png)
+![Image text](./BUAA-白底蓝字.png)
 ## About me
 :1: st year Ph.D. Student  
 :school: BeiHang University  
