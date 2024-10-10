@@ -2,7 +2,7 @@
 👋 Welcome~!
 ![Image text](./BUAA-白底蓝字.png)
 ## About me
-:1: st year Ph.D. Student  
+:one: st year Ph.D. Student  
 :school: BeiHang University  
 
 ### Research interests
@@ -13,5 +13,5 @@
 
 
 ### Education
-:necktie: Ph.D. Student at Kyushu University, supervised by [Prof. Jianjun Zhao](http://stap.ait.kyushu-u.ac.jp/~zhao/)  
+:necktie: Ph.D. Student at Kyushu University, supervised by [Prof. XuWang](xuwang.tech)  
 :mortar_board: B.S. Degree from BeiJingJiaoTong University
