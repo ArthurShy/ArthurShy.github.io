@@ -13,5 +13,5 @@
 
 
 ### Education
-:necktie: Ph.D. Student at Kyushu University, supervised by [Prof. XuWang](xuwang.tech)  
+:necktie: Ph.D. Student at Kyushu University, supervised by [Prof. XuWang](http://xuwang.tech)  
 :mortar_board: B.S. Degree from BeiJingJiaoTong University
